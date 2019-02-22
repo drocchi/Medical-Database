@@ -1,0 +1,13 @@
+C:\Users\crube\source\repos\Medical Database\Medical Database\bin\Debug\Medical Database.exe
+C:\Users\crube\source\repos\Medical Database\Medical Database\bin\Debug\Medical Database.pdb
+C:\Users\crube\source\repos\Medical Database\Medical Database\obj\Debug\Medical_Database.Properties.Resources.resources
+C:\Users\crube\source\repos\Medical Database\Medical Database\obj\Debug\Medical Database.csproj.GenerateResource.Cache
+C:\Users\crube\source\repos\Medical Database\Medical Database\obj\Debug\Medical Database.csproj.CoreCompileInputs.cache
+C:\Users\crube\source\repos\Medical Database\Medical Database\obj\Debug\Medical Database.exe
+C:\Users\crube\source\repos\Medical Database\Medical Database\obj\Debug\Medical Database.pdb
+C:\Users\crube\source\repos\Medical Database\Medical Database\obj\Debug\Medical Database.csprojResolveAssemblyReference.cache
+C:\Users\crube\source\repos\Medical Database\Medical Database\obj\Debug\Medical_Database.Menu.resources
+C:\Users\crube\source\repos\Medical Database\Medical Database\obj\Debug\Medical_Database.Login.resources
+C:\Users\crube\source\repos\Medical Database\Medical Database\obj\Debug\Medical_Database.AddDoctor.resources
+C:\Users\crube\source\repos\Medical Database\Medical Database\obj\Debug\Medical_Database.AddPatient.resources
+C:\Users\crube\source\repos\Medical Database\Medical Database\obj\Debug\Medical_Database.AddAppointment.resources
