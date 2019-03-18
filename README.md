@@ -16,7 +16,6 @@ Team project for Software Engineering course
 -Add a bunch of doctors/patients/appointments to the text file with real information. (Currently just "a,a,a,a,a,a...", maybe do 10 for each?)
 
 ***Other information:
--I got lazy with renaming all of the objects (text boxes, lables, buttons, etc.) because Windows Forms threw errors sometimes, so all the objects have comments above them describing which textbox/button they are.
 -You can just press login with no username or password to enter the program for debugging purposes. Can remove that code later from the login.cs file when we're done. (You'll see the code, there's a comment saying "REMOVE THIS LATER".)
 -Install ALL of the fonts in the Open_Sans zip folder.
 -Let me know if anything is confusing, I'm pretty positive everything works as intended at the moment and there's no bugs.
