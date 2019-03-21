@@ -10,7 +10,6 @@ Team project for Software Engineering course
 --Datazene - Logo.png is the image used for the login/menu page. (Has text.)
 
 ***Things I planned on adding:
--Encryption for both text files. (SHA256 with some hash.)
 -Input validation for text boxes. (All variables in database are stored as strings, planned on using the masked text boxes for validation since it's more simple. ALL of the text boxes in the program are masked text boxes already so they just need the implementation.)
 -Information for the "INFO" button describing how some functions/buttons work. (Like how to search, edit, etc.) 
 -Add a bunch of doctors/patients/appointments to the text file with real information. (Currently just "a,a,a,a,a,a...", maybe do 10 for each?)
