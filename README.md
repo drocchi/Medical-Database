@@ -11,8 +11,7 @@ Team project for Software Engineering course
 
 ***Things I planned on adding:
 -Input validation for text boxes. (All variables in database are stored as strings, planned on using the masked text boxes for validation since it's more simple. ALL of the text boxes in the program are masked text boxes already so they just need the implementation.)
--Information for the "INFO" button describing how some functions/buttons work. (Like how to search, edit, etc.) 
--Add a bunch of doctors/patients/appointments to the text file with real information. (Currently just "a,a,a,a,a,a...", maybe do 10 for each?)
+-I texted you all the rest of the plans I had on 3/25/2019.
 
 ***Other information:
 -You can just press login with no username or password to enter the program for debugging purposes. Can remove that code later from the login.cs file when we're done. (You'll see the code, there's a comment saying "REMOVE THIS LATER".)
